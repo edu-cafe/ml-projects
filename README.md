@@ -1,4 +1,4 @@
-# ml-projects
+# ML Projects 수행을 위한 팁
 ## Full Stack Deeplearning 참고
 - [ML Projects Lifecycle & 프로젝트 우선 순위 지정](https://fullstackdeeplearning.com/spring2021/lecture-5/)
 ## 우수한 ML 사용 사례
