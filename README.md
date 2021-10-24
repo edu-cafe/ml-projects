@@ -15,4 +15,11 @@
 - [Michelangelo와 함께하는 Uber의 기계 학습 확장 (Jeremy Hermann and Mike Del Balso, Uber Engineering, 2019)](https://eng.uber.com/scaling-michelangelo/)
 - [Spotify의 Discover Weekly: 기계 학습이 새로운 음악을 찾는 방법 (Sophia Ciocca, 2017)](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 
-## 
+## ML Projects 실행을 위한 참고자료
+-	[Andrew Ng’s “Machine Learning Yearning”](https://github.com/deep-diver/Machine-Learning-Yearning-Korean-Translation)
+-	[Andrej Kaparthy’s “Software 2.0”](https://karpathy.medium.com/software-2-0-a64152b37c35)
+-	[Agrawal, Gans, and Goldfarb’s “The Economics of AI”](https://www.economicsofai.com/)
+-	[Chip Huyen’s “Introduction to Machine Learning Systems Design”](https://docs.google.com/document/d/15vCMf7SbDuxST9Q-rWtx8o7qHJQN2pE5urCDFTYI1zs/edit)
+-	[Apple’s “Human-Interface Guidelines for Machine Learning”](https://developer.apple.com/design/human-interface-guidelines/machine-learning/overview/introduction/)
+-	[Google’s “Rules of Machine Learning”](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
